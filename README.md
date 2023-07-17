@@ -17,9 +17,9 @@ The code is written in Python, and i used the following libraries:
 The program is running on Unix machine (Ubunto 16.04.2 LTS).
 
 #### Premises:
-1.	The program will only get 1 image of myself to use as a reference during the project.
+1.	The program will only get 1 image of the subject to use as a reference during the project.
 2.	The program will go through 100 images of random people (males and females, different skin tones, face structures, positions and ages).
-3.	Although the program will only get 1 image of myself as base, I ran the program twice, each time with different base image of myself, to check deviations.
+3.	Although the program will only get 1 image of the sucject as base, I ran the program twice, each time with different base image of the subject, to check deviations.
 (In the attached files: “1.jpg” is the better base image and “falsepositiveBASE.jpg” will cause 1 false positive.
 
 ## Project’s results:
