@@ -1,7 +1,7 @@
 # Face Recognition Project
 ## Overview
-My first image recognition project
-Face recognition of base image and false positives/negatives
+In this project iv'e implemented a face recognition program that based on a "base photo" and running on random pictures while deciding if the current photo is the same person as int the the "base photo", plus tracking for false positives and false negatives.
+The interface of the program was built with Pygame.
 
 ![image](https://github.com/barakshalit/facerecognition/assets/76451972/89a817ea-a687-42b7-aed8-aa0dc7196afd)
 
