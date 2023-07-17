@@ -6,7 +6,7 @@ The interface of the program was built with Pygame.
 ![image](https://github.com/barakshalit/facerecognition/assets/76451972/89a817ea-a687-42b7-aed8-aa0dc7196afd)
 
 ## Project’s goal:
-The project’s goal is to write a code that could detect my face within 100 random images of people. 
+The project’s goal is to write a code that could detect the subject's face within 100 random images of people. 
 While doing so, calculate the number of correct matches, false positive and false negative.
 
 ## Project’s structure:
