@@ -14,7 +14,7 @@ While doing so, calculate the number of correct matches, false positive and fals
 The code is written in Python, and i used the following libraries:
 1.	face_recognition library (using dlib library)
 2.	pygame - for displaying the current image that being tested and some live stats and rates regarding the detection.
-The program is running on Unix machine (Ubunto 16.04.2 LTS).
+3. The program is running on Unix machine (Ubunto 16.04.2 LTS).
 
 #### Premises:
 1.	The program will only get 1 image of the subject to use as a reference during the project.
